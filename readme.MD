@@ -28,7 +28,7 @@
 Para escribir tipografia es muy parecido a la estrategia usada en Whatsapp. 
 Esto esta en **negritas** y esta _palabra_ esta en cursivas.
 
-´´´
+´´´python
 def sumar(a, b){
 
 }
